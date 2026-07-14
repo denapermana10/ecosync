@@ -1,0 +1,6 @@
+{
+  "name": "EcoSync",
+  "description": "A responsive smart home resource optimization dashboard featuring real-time energy & water analytics, automated flows, consumption trends, and an interactive Gemini AI Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
